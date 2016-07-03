@@ -1,1 +1,20 @@
 *{box-sizing: border-box;}
+.big-box{background-color: #ffcf95; width: 800px; height: 400px}
+/*
+.small-box1{background-color: #0a4b4b; 
+    width: 200px; 
+    height: 195px; 
+    color:#ffffff; 
+    border-bottom: 0px soild #ffffff; }
+*/
+.title{font-size:20px;font-family: monospace;}
+.money{font-size:60px;font-family: fantasy;}
+.MO{font-size:20px;font-family: monospace;}
+.month{border: 2px solid ;}
+/*
+.small-box2{background-color: #ffffff;
+    width: 200px; 
+    height: 195px; 
+*/
+   }
+.list1{}
