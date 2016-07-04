@@ -1,17 +1,20 @@
 *{box-sizing: border-box;}
 /*.big-box{background-color: #ffcf95; width: 800px; height: 400px}*/
-.left-small-box1{background-color: #0a4b4b; 
-    width: 200px; 
-    height: 195px; 
+.left-small-box{display: inline-block; 
+    background-color: #0a4b4b; 
+    width: 220px; 
+    height: 180px; 
     color:#ffffff; 
-    border-bottom: 0px soild #ffffff; }
-/*.title{font-size:20px;font-family: monospace;}*/
-/*.money{font-size:60px;font-family: fantasy;}*/
-/*.MO{font-size:20px;font-family: monospace;}*/
-/*.month{border: 2px solid ;}*/
+    border-bottom: 0px soild #ffffff; margin: 10px;}
+.title{font-size:20px;font-family: monospace;}
+.money{font-size:60px;font-family: fantasy;}
+.mo{font-size:20px;font-family: monospace;}
+.month{border: 2px solid ; border-radius: 10px; }
+.small-box1{list-style-type: none; 
+            }
 /*
 .small-box2{background-color: #ffffff;
     width: 200px; 
     height: 195px; 
-*/
    }
+*/
